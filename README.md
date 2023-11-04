@@ -11,7 +11,7 @@ Page Object Model (POM) design pattern
 ✅Test Case 1: Login User with correct email and password
 Launch browser
 Navigate to url 'https://www.saucedemo.com/'
-Enter correct email address and password
+Enter correct Username and password
 Click 'login' button
 Verify that 'successful Logged in'
 
